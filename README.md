@@ -1,1 +1,3 @@
-my first readme
+My first readme.
+
+I am truly a Software Engineer.
